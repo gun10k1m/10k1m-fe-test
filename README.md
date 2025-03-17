@@ -17,3 +17,9 @@
 4. 화면 렌더링 및 스타일링 (선택)
 
    - 자유
+
+
+
+
+https://github.com/user-attachments/assets/6950d8a2-4c06-4448-abc3-3f3143742595
+
